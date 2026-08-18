@@ -23,6 +23,9 @@ python3 DarkKingdom.py
 
 Follow the on-screen prompts to choose your character and make decisions throughout the story.
 
+## Play the game
+https://www.tjordanart.com/dark-kingdom
+
 ## Notes
 
 Colored text is done with raw ANSI escape codes, so it displays best in a terminal that supports them (most Linux/macOS terminals and modern Windows terminals). If you see garbled characters instead of colors, try running it in Windows Terminal or WSL.
